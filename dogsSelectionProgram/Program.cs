@@ -1,77 +1,93 @@
-﻿namespace dogsSelectionProgram
+﻿using System;
+
+namespace dogsSelectionProgram
 {
     internal class Program
     {
         static void InputControl(ref byte dogInfo, string text, ref bool controle, byte[] correctInValues)
         {
-        Start:
-            Console.Write(text);
-            string? inputValue = Console.ReadLine();
-            if (inputValue == "n") return;
+            bool success = false;
             byte count = 0;
-            byte V;
-            bool success = byte.TryParse(inputValue, out V);
-            if (success)
+            do
             {
-                for (byte i = 0; i < correctInValues.Length; i++)
+                Console.Write(text);
+                string? inputValue = Console.ReadLine();
+                if (inputValue == "n")
                 {
-                    if (V == correctInValues[i])
+                    controle = true;
+                    return;
+                }
+                byte V;
+                success = byte.TryParse(inputValue, out V);
+                if (success)
+                {
+                    for (byte i = 0; i < correctInValues.Length; i++)
                     {
-                        count++;
-                        controle = false;
-                        dogInfo = V;
+                        if (V == correctInValues[i])
+                        {
+                            count++;
+                            controle = false;
+                            dogInfo = V;
+                            break;
+                        }
+                    }
+                    if (count == 0)
+                    {
+                        Console.SetCursorPosition(0, Console.CursorTop - 1);
+                        Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
+                        Console.WriteLine("введіть значення із вказаного діапозону");
+                        continue;
                     }
                 }
-                if (count == 0)
+                else
                 {
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
                     Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
-                    Console.WriteLine("введіть значення із вказаного діапозону");
-                    goto Start;
+                    Console.WriteLine("Введіть корректні дані!!!");
+                    continue;
                 }
             }
-            else
-            {
-                Console.SetCursorPosition(0, Console.CursorTop - 1);
-                Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
-                Console.WriteLine("Введіть корректні дані!!!");
-                goto Start;
-            }
+            while (!success || count == 0);
         }
         static void InputControl(ref byte dogInfo, string text, byte[] correctInValues)
         {
-        Start:
-            Console.Write(text);
-            string? inputValue = Console.ReadLine();
-            if (inputValue == "n") return;
+            bool success = false;
             byte count = 0;
-            byte V;
-            bool success = byte.TryParse(inputValue, out V);
-            if (success)
+            do
             {
-                for (byte i = 0; i < correctInValues.Length; i++)
+                Console.Write(text);
+                string? inputValue = Console.ReadLine();
+                if (inputValue == "n")return;
+                byte V;
+                success = byte.TryParse(inputValue, out V);
+                if (success)
                 {
-                    if (V == correctInValues[i])
+                    for (byte i = 0; i < correctInValues.Length; i++)
                     {
-                        count++;
-                        dogInfo = V;
+                        if (V == correctInValues[i])
+                        {
+                            count++;
+                            dogInfo = V;
+                            break;
+                        }
+                    }
+                    if (count == 0)
+                    {
+                        Console.SetCursorPosition(0, Console.CursorTop - 1);
+                        Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
+                        Console.WriteLine("введіть значення із вказаного діапозону");
+                        continue;
                     }
                 }
-                if (count == 0)
+                else
                 {
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
                     Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
-                    Console.WriteLine("введіть значення із вказаного діапозону");
-                    goto Start;
+                    Console.WriteLine("Введіть корректні дані!!!");
+                    continue;
                 }
             }
-            else
-            {
-                Console.SetCursorPosition(0, Console.CursorTop - 1);
-                Console.Write("\r" + new string(' ', Console.BufferWidth) + "\r");
-                Console.WriteLine("Введіть корректні дані!!!");
-                goto Start;
-            }
+            while (!success || count == 0);
         }
         static void Main(string[] args)
         {
