@@ -112,7 +112,7 @@ namespace dogsSelectionProgram
                 { 3, 3, 2, 2, 2, 3, 2, 2, 2, 3, 3, 2, 2, 2, 2, 3, 3, 3, 2, 1, 2, 3, 2, 3, 2, 3, 1, 3, 1, 3, 3, 1, 3, 3, 2, 3, 2, 2, 2, 1, 2, 2, 2, 2, 1, 3, 2, 3, 1, 3, 3, 1, 2, 2, 3, 2, 1, 2, 2, 1, 1, 1, 3, 3, 2, 2, 2, 2, 3, 1, 1, 2, 2, 2, 1, 1, 3, 1, 3, 3, 2, 2, 2, 2, 1, 2, 3, 2, 3, 2, 2, 1, 1, 2, 2, 1, 3, 2, 2, 3, 3, 2, 3, 3, 3, 3, 2, 3, 2, 3, 2, 2, 2, 3, 2, 2, 1, 3, 2, 3, 2, 1, 2, 2, 2, 3, 1, 2, 1 }, //dogTrainingNeed; i = 14;
                 { 1, 3, 1, 1, 1, 5, 3, 1, 1, 1, 3, 1, 1, 1, 1, 4, 1, 4, 1, 1, 3, 1, 2, 1, 1, 3, 1, 4, 1, 2, 2, 1, 3, 2, 1, 3, 2, 6, 1, 1, 1, 1, 1, 2, 1, 2, 2, 3, 1, 1, 3, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 5, 5, 2, 2, 1, 1, 2, 1, 1, 1, 2, 2, 3, 2, 6, 1, 1, 2, 2, 2, 2, 1, 3, 1, 1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 3, 1, 1, 1, 2, 2, 2, 2, 5, 5, 1, 5, 1, 3, 3, 1, 3, 4, 1, 1, 1, 5, 2, 3, 2, 1, 2, 3, 2, 5, 1, 5, 1 }, //dogTrainingAccessibility; i = 15;
                 { 1, 1, 2, 2, 2, 1, 2, 3, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 3, 2, 2, 2, 1, 2, 1, 3, 2, 2, 2, 1, 1, 2, 2, 1, 2, 2, 0, 2, 3, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 3, 3, 2, 2, 2, 3, 3, 1, 2, 2, 2, 2, 2, 1, 3, 3, 2, 2, 3, 3, 3, 1, 3, 2, 1, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2, 2, 3, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 3, 2, 2 }, //dogOtherAnimalsCompatibility; i = 16;
-                { 3, 2, 2, 2, 3, 1, 2, 4, 2, 2, 0, 3, 2, 4, 2, 4, 4, 2, 3, 3, 2, 3, 3, 4, 3, 1, 3, 2, 3, 3, 2, 1, 3, 3, 3, 2, 2, 0, 2, 3, 2, 3, 3, 2, 3, 3, 3, 1, 4, 2, 1, 4, 2, 3, 3, 3, 3, 3, 3, 2, 3, 3, 2, 2, 2, 2, 2, 2, 1, 3, 4, 2, 2, 2, 3, 2, 1, 1, 2, 1, 2, 2, 2, 3, 3, 3, 3, 3, 2, 3, 2, 2, 2, 4, 3, 3, 3, 3, 3, 3, 2, 2, 1, 3, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 3, 2, 3, 1, 3, 1, 2, 2, 4, 3, 2, 3, 3, 2, 3 }, //dogChildrenCompatibility; i = 17;
+                { 3, 2, 2, 2, 3, 1, 2, 4, 2, 2, 0, 3, 2, 4, 2, 4, 4, 2, 3, 3, 2, 3, 3, 4, 3, 1, 3, 2, 3, 3, 2, 1, 3, 3, 3, 2, 2, 0, 2, 3, 2, 3, 3, 2, 3, 3, 3, 1, 4, 2, 1, 4, 2, 3, 3, 3, 3, 3, 3, 2, 3, 3, 2, 2, 2, 2, 2, 2, 1, 3, 4, 2, 2, 2, 3, 2, 1, 2, 2, 1, 2, 2, 2, 3, 3, 3, 3, 3, 2, 3, 2, 2, 2, 4, 3, 3, 3, 3, 3, 3, 2, 2, 1, 3, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 3, 2, 3, 1, 3, 1, 2, 2, 4, 3, 2, 3, 3, 2, 3 }, //dogChildrenCompatibility; i = 17;
                 { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 1 }, //dogDesirableChildrenAge; i = 18;
                 { 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }, //dogForOldMan; i = 19;
                 { 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 }, //dogForDisabledPersons; i = 20;
@@ -120,179 +120,171 @@ namespace dogsSelectionProgram
             };
 
             string[] dogBreedName = { "Австралійська вівчарка", "австралійський скотар", "Австралійський тер'єр", "Австралійський шовковистий тер'єр", "Американський кокер-спанієль", "Анатолійська вівчарка", "Англійський бульдог", "Англійський сетер", "Англійський той-тер'єр", "Афганський хорт", "Аффенпінчер", "Баварський гірський гончак", "Басенджі", "Басет-гаунд(английский басет)", "Бедлінгтон-тер'єр", "Бельгійська вівчарка (грюнендаль)", "Беннрський зеннрехунд", "Бергамська вівчарка", "Бігль", "Бішон фрізе", "Бладгаунд", "Блакитний гасконський басет", "Боксер", "Бордер коллі", "Бордер-тер'єр", "Бордоський дог", "Бородатий коллі", "Босерон", "Бостонський тер'єр", "Бретонський епаньоль", "Бріар", "Брюссельський грифон", "Бульмастиф", "Бультер'єр", "Вандейський басет-грифон", "Великий блакитний гасконський гончак", "Вельш-коргі-кардіган", "Вовкособ", "Вольфшпіц", "Гаванез", "Гладкошерстий коллі", "Гончак Гамільтона", "Ґрейгаунд", "Далматин", "Денді-дінмонт-тер'єр", "Джек расел тер'єр", "Дірхаунд", "Доберман", "Довгошерстий коллі", "Ердельтер'єр", "Ештрельська гірська вівчарка", "Золотистий ретривер", "Ірландський вовкодав", "Ірландський сетер", "Ірландський тер'єр", "Ірландський червоно-білий сетер", "Італійська болонка", "Італійський лягавий собака", "Італійський спінон", "Італійський хорт", "Кавалер-кінг-чарльз-спанієль", "кінг-чарльз-спанієль", "кавказька вівчарка", "Канадський ескімоський собака", "Кері-блю-тер'єр", "Керн-тер'єр", "Китайський чубатий собака", "Коікерхондьє", "Комондор", "Котон-де-тулеар", "Лабрадор", "Ланкаширський хілер", "Лейкленд-тер'єр", "Леонбергер", "Лоучен (малий левовий собака)", "Лхаса апсо", "Маламут", "Мальтійська болонка", "Маремма-абруцька вівчарка", "Мастиф", "Мексиканський голий собака (середній)", "Мініатюрний бультер'єр", "Мініатюрний пінчер", "Мініатюрний шнауцер", "Мопс", "Мюнстерлендерський лягавий собака (великий)", "Німецька вівчарка", "Німецька короткошерста лягава", "Німецький дог", "Німецький жорсткошерстий лягавий собака", "Німецький пінчер", "Німецький шпіц мініатюрний", "Німецький шпіц середній", "Ньюфаундленд", "Палевий бретонський басет", "Папільйон", "Піренейський гірський собака", "Поденко-ібіценко (короткошерстий/гладкошерстий)", "Польська низинна вівчарка", "Пудель", "Різеншнауцер", "Російський хорт", "Ротвейлер", "Сенбернар", "Середньоазіатська вівчарка(алабай)", "Сибірський хаскі", "Такса", "Тибетський мастиф", "Угорська вижла", "Угорський кувас", "Угорський пулі", "Фінський лаппхунд", "Фінський шпіц", "Фландрський був'є", "Фоксгаунд", "Фокстер'єр", "Французький бульдог", "Ханаанський собака", "Ховаварт", "Чау-чау (довгошерстий)", "Чеський тер'єр", "Чихуахуа", "Шарпей", "Шотландський сетер", "Шотландський тер'єр", "Японський акіта", "Японський хін", "Японський шиба-іну", "Японський шпіц" };
-            byte[] inputs = { 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, };
-            bool[] controls = { true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true };
-            byte dogActivityAditional = inputs[11];
-            byte[] findDogNum = new byte[dogBreedName.Length];
-
-            //______________________________________________Діалог____________________________
-
             Console.WriteLine("Вітаємо! Тут ви можете визначити для себе яка порода собак вам падходить!");
             Console.WriteLine("Вам необхадно зробити вибір і відповісти на декілька запитань");
             Console.WriteLine("Ітак почнемо!");
-        OneMoreTime:
-            Console.WriteLine("Призначення собаки (для чого він вам потрібен?):");
-            byte questionsToOwner1 = 0;
-            InputControl(ref questionsToOwner1, "1 - для сімї, 2 - для себе, 3 - для охорони, 4 - для спорта/хоббі, 5 - ІНШЕ: ", new byte[] { 1, 2, 3, 4, 5 });
-            switch (questionsToOwner1)
+            byte tryAgain = 0;
+            do
             {
-                case 1:
-                    inputs[3] = 1;
-                    controls[3] = false;
-                    byte dogBabySeater = 0;
-                    InputControl(ref dogBabySeater, "Компаньйон для дитини (собака нянька): (1 - так, 0 - не має значення)", new byte[] { 0, 1 });
-                    if (dogBabySeater == 1)
-                    {
-                        inputs[17] = 4;
+                byte[] inputs = { 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, };
+                bool[] controls = { true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true };
+                byte dogActivityAditional = inputs[11];
+                byte[] findDogNum = new byte[dogBreedName.Length];
+
+                Console.WriteLine("Призначення собаки (для чого він вам потрібен?):");
+                byte questionsToOwner1 = 0;
+                InputControl(ref questionsToOwner1, "1 - для сімї, 2 - для себе, 3 - для охорони, 4 - для спорта, 5 - ІНШЕ | ", new byte[] { 1, 2, 3, 4, 5 });
+                switch (questionsToOwner1)
+                {
+                    case 1://для сімї
+                        inputs[3] = 1;
+                        controls[3] = false;
+                        byte dogBabySeater = 0;
+                        InputControl(ref dogBabySeater, "Компаньйон для дитини (собака нянька): (1 - так, 0 - не має значення)| ", new byte[] { 0, 1 });
+                        if (dogBabySeater == 1)
+                        {
+                            inputs[17] = 4;
+                            controls[17] = false;
+                            break;
+                        }
+                        else inputs[17] = 2;
                         controls[17] = false;
-                        break;
-                    }
-                    else inputs[17] = 2;
-                    controls[17] = false;
-                    InputControl(ref inputs[0], "Розмір (1 дуже маленький, 2 маленький, 3 середній, 4 великий, 5 дуже великий, n - неважливо)", ref controls[0], new byte[] { 1, 2, 3, 4, 5 });
-                    if (inputs[0] == 0)
-                    {
-                        InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))", ref controls[9], new byte[] { 1, 2, 3, 4 });
-                    }
-                    InputControl(ref inputs[1], "Гіпоалергенний: (1 - так, 0 - не обов'язково)", new byte[] { 0, 1 });
-                    if (inputs[1] == 1) controls[1] = false;
-                    InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)", ref controls[13], new byte[] { 1, 2, 3, 4 });
-                    --inputs[13];
-                    if (inputs[13] == 2 || inputs[13] == 3)
-                    {
-                        InputControl(ref inputs[10], "Охоронні функції (0 - ні, 1 - тільки гавкає, 2 - повністю захищає, n - неважливо)", ref controls[10], new byte[] { 0, 1, 2 });
-                    }
-                    break;
-                case 2:
-                    byte choiseForYourself = 0;
-                    InputControl(ref choiseForYourself, "1 - просто компаньйон, 2 - для активного життя, 3 - для охрони, 4 - для дресирування", new byte[] { 0, 1 });
-                    switch (choiseForYourself)
-                    {
-                        case 1:
-                            inputs[3] = 1;
-                            controls[3] = false;
-                            break;
-                        case 2:
-                            inputs[11] = 2;
-                            dogActivityAditional = 3;
-                            controls[11] = false;
-                            break;
-                        case 3:
-                            InputControl(ref inputs[10], "Охоронні функції (1 - тільки гавкає, 2 - повністю захищає)", ref controls[10], new byte[] { 1, 2 });
-                            break;
-                        case 4:
-                            InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)", ref controls[13], new byte[] { 1, 2, 3, 4 });
-                            --inputs[13];
-                            switch (inputs[13])
-                            {
-                                case 1:
-                                    InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - нескладно, 2 - вміру нескладно. ", ref controls[15], new byte[] { 1, 2 });
-                                    ++inputs[15];
-                                    break;
-                                case 2:
-                                    InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - нескладно, 2 - вміру нескладно, 3 - не дуже складно, 4 - складно. ", ref controls[15], new byte[] { 1, 2, 3, 4 });
-                                    ++inputs[15];
-                                    break;
-                                case 3:
-                                    InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - складно, 2 - дуже складно. ", ref controls[15], new byte[] { 1, 2 });
-                                    inputs[15] += 4;
-                                    break;
-                            }
-                            break;
-                    }
-                    //InputControl(ref inputs[3], "Домашній улюблинець, компаньйон: (1 - так, 0 - ні, n - неважливо)", new byte[] { 0, 1 });
-                    //if (inputs[3] == 1) controls[3] = false;
-                    
-                    InputControl(ref inputs[1], "Гіпоалергенний: (1 - так, 0 - не обов'язково)", new byte[] { 0, 1 });
-                    InputControl(ref inputs[10], "Охоронні функції (0 - ні, 1 - тільки гавкає, 2 - повністю захищає, n - неважливо)", ref controls[10], new byte[] { 0, 1, 2 });
-                    if (inputs[1] == 1) controls[1] = false;
-                    if (inputs[10] == 2)
-                    {
-                        InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)", ref controls[13], new byte[] { 1, 2, 3, 4 });
+                        InputControl(ref inputs[0], "Розмір (1 дуже маленький, 2 маленький, 3 середній, 4 великий, 5 дуже великий, n - неважливо)| ", ref controls[0], new byte[] { 1, 2, 3, 4, 5 });
+                        if (inputs[0] == 0)
+                        {
+                            InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))| ", ref controls[9], new byte[] { 1, 2, 3, 4 });
+                        }
+                        InputControl(ref inputs[1], "Гіпоалергенний: (1 - так, 0 - не обов'язково)| ", new byte[] { 0, 1 });
+                        if (inputs[1] == 1) controls[1] = false;
+                        InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)| ", ref controls[13], new byte[] { 1, 2, 3, 4 });
                         --inputs[13];
-                    }
-                    else if (inputs[10] == 1) InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))", ref controls[9], new byte[] { 1, 2, 3, 4 });
-                    break;
-                case 3:
-                    InputControl(ref inputs[10], "Власна безпека ((1 - тільки гавкає, 2 - повністю захищає, n - неважливо)", ref controls[10], new byte[] { 1, 2 });
-                    InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)", ref controls[13], new byte[] { 1, 2, 3, 4 });
-                    --inputs[13];
-                    if (inputs[10] == 1) InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))", ref controls[9], new byte[] { 1, 2, 3, 4 });
-                    break;
-                case 4:
-                    byte sport = 0;
-                    InputControl(ref sport, "Для спорта/хоббі: (1 кінологічний спорт, 2 - їздовий спорт, 3 - будь-що з цього)", new byte[] { 1, 2 });
-                    if (sport == 1) controls[4] = false;
-                    else if (sport == 2) controls[5] = false;
-                    else if (sport == 3)
-                    {
-                        controls[5] = false;
-                        controls[4] = false;
-                    }
-                    break;
-                case 5:
-                    byte questionsToOwner2 = 0;
-                    InputControl(ref questionsToOwner2, "1 - професійне використання, 2 - для людей з обмеженими можливостями, 3 - для літніх людей, 4 - не можу визначитись", new byte[] { 1, 2, 3, 4 });
+                        if ((inputs[13] == 2 || inputs[13] == 3) && inputs[0] >= 3)
+                        {
+                            InputControl(ref inputs[10], "Охоронні функції (0 - ні, 1 - тільки гавкає, 2 - повністю захищає, n - неважливо)| ", ref controls[10], new byte[] { 0, 1, 2 });
+                        }
+                        break;
+                    case 2://для себе
+                        byte choiseForYourself = 0;
+                        InputControl(ref choiseForYourself, "1 - просто компаньйон, 2 - для активного життя, 3 - для охрони, 4 - для дресирування | ", new byte[] { 1, 2, 3, 4 });
+                        switch (choiseForYourself)
+                        {
+                            case 1://компаньйон
+                                inputs[3] = 1;
+                                controls[3] = false;
+                                break;
+                            case 2://для активного життя
+                                inputs[11] = 2;
+                                dogActivityAditional = 3;
+                                controls[11] = false;
+                                InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)| ", ref controls[13], new byte[] { 1, 2, 3, 4 });
+                                --inputs[13];//2-4 empty
+                                if (inputs[13] >= 1) InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))| ", ref controls[9], new byte[] { 1, 2, 3, 4 });
+                                
+                                break;
+                            case 3:// для охорони
+                                Console.WriteLine("УВАГА! Для утримання собаки ака захищає фізично дуже бажано мати досвід виховання таких собак або слід звернутися за консультацією до професійного кінолога!!!");
+                                InputControl(ref inputs[10], "Охоронні функції (1 - тільки гавкає, 2 - повністю захищає)| ", ref controls[10], new byte[] { 1, 2 });
+                                InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))| ", ref controls[9], new byte[] { 1, 2, 3, 4 });
+                                break;
+                            case 4://для дресирування
+                                InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)| ", ref controls[13], new byte[] { 1, 2, 3, 4 });
+                                --inputs[13];
+                                switch (inputs[13])
+                                {
+                                    case 1:
+                                        InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - нескладно, 2 - вміру нескладно. | ", ref controls[15], new byte[] { 1, 2 });
+                                        ++inputs[15];
+                                        break;
+                                    case 2:
+                                        InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - нескладно, 2 - вміру нескладно, 3 - не дуже складно, 4 - складно. | ", ref controls[15], new byte[] { 1, 2, 3, 4 });
+                                        ++inputs[15];
+                                        break;
+                                    case 3:
+                                        InputControl(ref inputs[15], "На скільки собака має піддаватись дрессируванню?: 1 - складно, 2 - дуже складно. | ", ref controls[15], new byte[] { 1, 2 });
+                                        inputs[15] += 4;
+                                        break;
+                                }
+                                break;
+                        }
+                        break;
+                    case 3://для охорони
+                        Console.WriteLine("УВАГА! Для утримання собаки ака захищає фізично дуже бажано мати досвід виховання таких собак або слід звернутися за консультацією до професійного кінолога!!!");
+                        InputControl(ref inputs[10], "Власна безпека ((1 - тільки гавкає, 2 - повністю захищає, n - неважливо)| ", ref controls[10], new byte[] { 1, 2 });
+                        InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)| ", ref controls[13], new byte[] { 1, 2, 3, 4 });
+                        --inputs[13];
+                        if (inputs[10] == 1) InputControl(ref inputs[9], "Де буде знаходитись собака? (1 — в квартирі, 2 — Переважно в квартирі, 3 — переважно в приватному будинку, 4 — на території приватного будинку (або їнщій території))| ", ref controls[9], new byte[] { 1, 2, 3, 4 });
+                        break;
+                    case 4://для спорта
+                        byte sport = 0;
+                        InputControl(ref sport, "Для спорта: (1 кінологічний спорт, 2 - їздовий спорт)| ", new byte[] { 1, 2 });
+                        if (sport == 1) controls[4] = false;
+                        else if (sport == 2) controls[5] = false;
+                        break;
+                    case 5://інше
+                        byte questionsToOwner2 = 0;
+                        InputControl(ref questionsToOwner2, "1 - професійне використання, 2 - для людей з обмеженими можливостями, 3 - для літніх людей, 4 - для виставок| ", new byte[] { 1, 2, 3, 4 });
 
-                    switch (questionsToOwner2)
-                    {
-                        case 1:
-                            byte profWork = 0;
-                            InputControl(ref profWork, "Для професійного використання: (1 - полювання, 2 - служби, 3 - собака-пастух )", new byte[] { 1, 2, 3 });
-                            if (profWork == 1) controls[7] = false;
-                            else if (profWork == 2) controls[6] = false;
-                            else if (profWork == 3) controls[8] = false;
-                            break;
-                        case 2:
-                            controls[20] = false;
-                            break;
-                        case 3:
-                            controls[19] = false;
-                            break;
-                        case 4:
-                            Console.WriteLine("Спробуємо ще!!!");
-                            InputControl(ref inputs[13], "Оцініть ваш досвід володіння собаки: (1 — ніколи не тримав собак, 2 —  невеликий досвід(знаю як доглядати), 3 — В мене великий досвід (добре розумію поведінку тварини), 4 - професіонал)", ref controls[13], new byte[] { 1, 2, 3, 4 }); 
-                            --inputs[13];
-                            InputControl(ref inputs[0], "Розмір (1 дуже маленький, 2 маленький, 3 середній, 4 великий, 5 дуже великий, n - неважливо)", ref controls[0], new byte[] { 1, 2, 3, 4, 5 });
-                            InputControl(ref inputs[2], "На скільки шумним може бути собака? (1 тихий, 2 галасливий, 3 дуже галасливий, n - неважливо)", ref controls[2], new byte[] { 1, 2, 3 });
-                            InputControl(ref inputs[11], "На скільки активним має бути собака? (1 не дуже активний, 2 активний, 3 дуже активний, n - неважливо)", ref controls[11], new byte[] { 1, 2, 3 });
-                            break;
-                        default:
-                            Console.WriteLine("any dog");
-                            break;
-                    }
-                    break;
-            }
+                        switch (questionsToOwner2)
+                        {
+                            case 1:
+                                byte profWork = 0;
+                                InputControl(ref profWork, "Для професійного використання: (1 - полювання, 2 - служби, 3 - собака-пастух)| ", new byte[] { 1, 2, 3 });
+                                if (profWork == 1) controls[7] = false;
+                                else if (profWork == 2) controls[6] = false;
+                                else if (profWork == 3) controls[8] = false;
+                                break;
+                            case 2:
+                                controls[20] = false;
+                                break;
+                            case 3:
+                                controls[19] = false;
+                                break;
+                            case 4:
+                                inputs[13] = 2;
+                                Console.WriteLine("Собака має бути дресированою!!!");
+                                InputControl(ref inputs[0], "Розмір (1 дуже маленький, 2 маленький, 3 середній, 4 великий, 5 дуже великий, n - неважливо)| ", ref controls[0], new byte[] { 1, 2, 3, 4, 5 });
+                                if (inputs[0] >= 2)
+                                {
+                                    InputControl(ref inputs[21], "Скільки ви готові приділити уваги на догляд за твариною? від 1 до 6 де: 1 — мінімум, 3 - маю деякі мождивості, 5 — щодня готовий, 6 — віддам всі сили. | ", ref controls[21], new byte[] { 1, 2, 3 });
+                                }
+                                break;
+                            default:
+                                Console.WriteLine("any dog");
+                                break;
+                        }
+                        break;
+                }
 
 
-            byte j = 0;
-            for (byte i = 0; i < dogBreedName.Length; i++)
-            {
-                if (((dogsOptions[0, i] == inputs[0]) || controls[0]) && ((dogsOptions[1, i] == inputs[1]) || controls[1]) && ((dogsOptions[2, i] == inputs[2]) || controls[2]) && ((dogsOptions[3, i] == inputs[3]) || controls[3]) && ((dogsOptions[4, i] == inputs[4]) || controls[4]) && ((dogsOptions[5, i] == inputs[5]) || controls[5]) && ((dogsOptions[6, i] == inputs[6]) || controls[6]) && ((dogsOptions[7, i] == inputs[7]) || controls[7]) && ((dogsOptions[8, i] == inputs[8]) || controls[8]) && ((dogsOptions[9, i] == inputs[9]) || controls[9]) && ((dogsOptions[10, i] == inputs[10]) || controls[10]) && ((dogsOptions[11, i] == inputs[11]) || (dogsOptions[11, i] == dogActivityAditional) || controls[11]) && ((dogsOptions[12, i] <= inputs[12]) || controls[12]) && ((dogsOptions[13, i] <= inputs[13]) || controls[13]) && ((dogsOptions[14, i] <= inputs[14]) || controls[14]) && ((dogsOptions[15, i] == inputs[15]) || controls[15]) && ((dogsOptions[16, i] >= inputs[16]) || controls[16]) && ((dogsOptions[17, i] >= inputs[17]) || controls[17]) && ((dogsOptions[18, i] <= inputs[18]) || controls[18]) && ((dogsOptions[19, i] == inputs[19]) || controls[19]) && ((dogsOptions[20, i] == inputs[20]) || controls[20]) && ((dogsOptions[21, i] <= inputs[21]) || controls[21]))
+                byte j = 0;
+                for (byte i = 0; i < dogBreedName.Length; i++)
                 {
-                    findDogNum[j++] = i;
-                    //Console.WriteLine(j);
-                };
-                //Console.WriteLine(i);
-            }
-            if (j == 0) Console.WriteLine("Нажаль ми не можемо знайти породу собаки за вашими умовами((");
-            else if (j == 1) Console.WriteLine($"Ми підібрали для вас таку породу: {dogBreedName[findDogNum[0]]}");
-            else
-            {
-                Console.WriteLine("Пропонуємо вибрати серед таких порід: ");
-                for (byte i = 0; i < j; i++)
+                    if (((dogsOptions[0, i] == inputs[0]) || controls[0]) && ((dogsOptions[1, i] == inputs[1]) || controls[1]) && ((dogsOptions[2, i] == inputs[2]) || controls[2]) && ((dogsOptions[3, i] == inputs[3]) || controls[3]) && ((dogsOptions[4, i] == inputs[4]) || controls[4]) && ((dogsOptions[5, i] == inputs[5]) || controls[5]) && ((dogsOptions[6, i] == inputs[6]) || controls[6]) && ((dogsOptions[7, i] == inputs[7]) || controls[7]) && ((dogsOptions[8, i] == inputs[8]) || controls[8]) && ((dogsOptions[9, i] == inputs[9]) || controls[9]) && ((dogsOptions[10, i] == inputs[10]) || controls[10]) && ((dogsOptions[11, i] == inputs[11]) || (dogsOptions[11, i] == dogActivityAditional) || controls[11]) && ((dogsOptions[12, i] <= inputs[12]) || controls[12]) && ((dogsOptions[13, i] <= inputs[13]) || controls[13]) && ((dogsOptions[14, i] <= inputs[14]) || controls[14]) && ((dogsOptions[15, i] == inputs[15]) || controls[15]) && ((dogsOptions[16, i] >= inputs[16]) || controls[16]) && ((dogsOptions[17, i] >= inputs[17]) || controls[17]) && ((dogsOptions[18, i] <= inputs[18]) || controls[18]) && ((dogsOptions[19, i] == inputs[19]) || controls[19]) && ((dogsOptions[20, i] == inputs[20]) || controls[20]) && ((dogsOptions[21, i] <= inputs[21]) || controls[21]))
+                    {
+                        findDogNum[j++] = i;
+                        //Console.WriteLine(j);
+                    };
+                    //Console.WriteLine(i);
+                }
+                if (j == 0) Console.WriteLine("Нажаль ми не можемо знайти породу собаки за вашими умовами((");
+                else if (j == 1) Console.WriteLine($"Ми підібрали для вас таку породу: {dogBreedName[findDogNum[0]]}");
+                else
                 {
-                    Console.WriteLine(dogBreedName[findDogNum[i]]);
+                    Console.WriteLine("Пропонуємо вибрати серед таких порід: ");
+                    for (byte i = 0; i < j; i++)
+                    {
+                        Console.WriteLine(dogBreedName[findDogNum[i]]);
+                    }
+                }
+                
+                InputControl(ref tryAgain, "Чи бажаєте спробувати ще? (1 - так, 0 - ні)", new byte[] { 0, 1 });
+                if (tryAgain == 1)
+                {
+                    Console.Clear();
+                    Console.WriteLine("Ітак, спробуємо ще раз!");
                 }
             }
-            byte tryAgain = 0;
-            InputControl(ref tryAgain, "Чи бажаєте спробувати ще? (1 - так, 0 - ні)", new byte[] { 0, 1 });
-            if (tryAgain == 1)
-            {
-                Console.Clear();
-                Console.WriteLine("Ітак, спробуємо ще раз!");
-                goto OneMoreTime;
-            }
+            while(tryAgain == 1);
         }
     }
 }
